@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abhishek Kumar Pandey</h1>
+<h1 align="center">👋 Hi, I'm Abhishek </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Final-year+Computer+Science+Engineering+Student;Full-Stack+Developer;Exploring+Generative+AI+and+Agentic+AI" alt="Animated introduction" />
@@ -40,7 +40,7 @@ I'm a passionate software developer motivated by building innovative products, s
 
 ---
 
-<p align="center">
+<p>
   🔭 Building AI-powered applications and intelligent software systems.<br>
   🌱 Exploring Agentic AI, Generative AI, LLMs, and RAG.<br>
   💻 Developing full-stack applications and scalable backend systems.<br>
