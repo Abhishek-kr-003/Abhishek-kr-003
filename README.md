@@ -29,3 +29,7 @@ I'm an aspiring software developer interested in building useful applications an
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,aws,docker,nodejs,express,react,flutter,git,github" alt="PostgreSQL, AWS, Docker, Node.js, Express, React, Flutter, Git, GitHub" />
 </p>
+
+## Connect
+
+[LinkedIn]((https://www.linkedin.com/in/abhishek-kumar-pandey-abhi03/))
