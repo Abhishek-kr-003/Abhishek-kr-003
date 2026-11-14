@@ -32,4 +32,6 @@ I'm an aspiring software developer interested in building useful applications an
 
 ## Connect
 
-[LinkedIn]((https://www.linkedin.com/in/abhishek-kumar-pandey-abhi03/))
+<a href="https://www.linkedin.com/in/abhishek-kumar-pandey-abhi03/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+</a>
